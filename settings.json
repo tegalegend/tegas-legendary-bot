@@ -8,7 +8,8 @@
   "server": {
     "ip": "nhgsmp.aternos.me",
     "port": 32699,
-    "version": "1.21.1"
+    "version": "26.1.2"
+
   },
   "position": {
     "enabled": true,
